@@ -7,3 +7,6 @@ def joy_division(a, b):
 
 def addition(a, b):
     return a + b
+
+def pow(a, b):
+    return a**b
