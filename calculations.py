@@ -10,3 +10,6 @@ def addition(a, b):
 
 def pow(a, b):
     return a**b
+
+def substraction(a, b):
+    return a - b
